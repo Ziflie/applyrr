@@ -38,7 +38,7 @@ export default function Home({ data }) {
       <Navbar />
       <div className="grid grid-cols-2 gap-4">
         <div className="col-span-2">
-          <h1 className="grid justify-center font-main text-black  text-6xl md:text-9xl">
+          <h1 className="grid justify-center font-main text-black text-6xl md:text-9xl">
             Applyrr.
           </h1>
         </div>
